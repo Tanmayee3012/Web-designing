@@ -1,0 +1,64 @@
+body{
+  background-color:rgba(0,0,0,0.56);
+  color:white;
+  font-family:courier new;
+  font-size:16px;
+}
+
+.container{
+  background-color:black;
+  padding:10px;
+  max-width: 600px;
+  margin:0 auto;
+}
+
+#title{
+  color:#D3649F;
+}
+
+label{
+  display:block;
+    font-size:16px;
+}
+
+h1,p{
+  text-align:center;
+}
+
+input,
+textarea,select{
+  margin: 10px 0;
+  padding:10px 0;
+  display:block;
+  width:100%;
+  font-size:14px;
+}
+
+input[type="radio"]
+{
+  width:unset;
+  display:unset;
+}
+
+input[type="checkbox"]
+{
+  width:unset;
+  display:unset;
+}
+
+fieldset{
+  margin:10px;
+}
+
+input[type="submit"]
+{
+  display:block;
+  margin: 10px auto 0;
+  background-color:#D3649F;
+  border-radius:50% 0;
+  width:40%;
+  height:3em;
+  min-width:200px;
+  
+}
+

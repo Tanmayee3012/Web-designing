@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hola amigos ..!!
+      </title>
+      <link rel="stylesheet" href="surveyform.css" >
+    </head>
+    <body>
+      <div class="container">
+        <h1 id="title">aboutMe Survey   Form</h1>
+        <p id="description">Thanks for giving your time to help me understanding myself.</p>
+        <form id="survey-form">
+        <label id="name-label">Name: <input type="text" name="name" id="name" placeholder="John Dey" required /></label>
+          <label id="email-label">Email: <input type="email" name="email" id="email" placeholder="abc@gmail.com" required /></label>
+
+          <label id="number-label">Points you'll give to me
+          <input id="number" type="number" placeholder="0" min="0" max="10" /></label>
+          <label>Good or bad
+          <select id="dropdown">
+            <option>Tell me</option>
+            <option>Good</option>
+            <option>Bad</option>
+          </select></label>
+
+<fieldset>
+  <legend>What am I ??</legend>
+<label><input type="radio" name="lul" value="0" />
+Human</label>
+<label><input type="radio" name="lul" value="1" />
+Alien</label>
+</fieldset>
+<fieldset>
+<legend>Behaviour ??</legend>
+<label><input type="checkbox" value="1" />
+Overthinker</label>
+<label><input type="checkbox" value="2" />
+Funny</label>
+<label><input type="checkbox" value="3" />
+Cute</label>
+<label><input type="checkbox" value="4" />
+Rude</label>
+<label><input type="checkbox" value="5" />
+Confusing</label>
+</fieldset>
+<label>Say something about me <textarea rows="3"></textarea></label>
+<input type="submit" id="submit" Value="Bang it on">
+          </form>
+      </div>
+      </body>
+  </html>
