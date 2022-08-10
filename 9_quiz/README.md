@@ -1,0 +1,2 @@
+# nothing-much
+Another project and I learnt so much in it which includes more use of flexbox and accesibility which is really cool that I am able to link some section of my web page with the nav bar. I'm pretty excited to use it further in another projects !!
