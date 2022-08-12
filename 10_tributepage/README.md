@@ -1,0 +1,2 @@
+# nothing-much
+ So This is a certification project on freecodecamp responsive web design course and you have to write down the code on your own so did I.. !! I cloned their example webpage actually cause I was unable to find any URL for the image but I'm really happy that I coded something on my own .. !!
