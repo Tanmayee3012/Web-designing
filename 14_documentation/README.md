@@ -1,0 +1,2 @@
+# nothing-much
+Wooh.. It was a tiring task to do for a newbie but I did it and the result is quite satisfactory for me.But actually I doubted myself that whether I'll be able to create this one or not hehe :)
