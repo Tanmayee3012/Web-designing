@@ -1,0 +1,15 @@
+/* #5293b5 */
+body{
+    background-color:#0b506e ;
+    color:aliceblue;
+    font-family: monospace;
+}
+
+#heading{
+    text-align: center;
+    padding:5%;
+}
+
+#flexbox{
+    display: flex;
+}

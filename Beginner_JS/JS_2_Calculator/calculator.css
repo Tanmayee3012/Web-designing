@@ -1,0 +1,42 @@
+*{
+    background-color:powderblue;
+    font-family:monospace;
+}
+
+button{
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin:50px;
+    font-size:16px;
+    color:white;
+    font-weight: bold;
+    width:200px;
+    height:50px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-radius:50px;
+    background-color:rgb(250, 76, 111);
+}
+
+#sum-el{
+    font-weight:bold;
+    font-size:18px;
+    text-align: center;
+    margin:50px 20px;
+}
+
+.numbers{
+    font-weight:bold;
+    font-size:18px;
+    text-align: center;
+    margin:50px 20px;
+}
+
+#num1-el,#num2-el{
+    margin:0 50px;
+    padding:10px;
+    border: 1px solid white;
+    color: white;
+    background-color:rgb(250, 76, 111) ;
+}
